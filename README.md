@@ -8,7 +8,8 @@ Still being written.
 ## How to Use
 Still being written.
 
-## Microservice Arcitecuture
+## Microservice Architecture
+Still being written.
 
 ## Contributing
 Still being written.
