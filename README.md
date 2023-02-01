@@ -1,5 +1,5 @@
 # Kangaroo
-Kangaroo is a enumeration tool, coded in python3, with eight diffrent capabilities. Built using microserveces the enumeration tool provides five cheif capabilities including network scanning, DNS enumeration, directory busting, port scanning, and vulnerability scanning. Kangaroo was chosen as a name because kangaroos can be classified as having 5 legs to to there reliance on their tail.  
+Kangaroo is a enumeration tool, coded in python3, with five diffrent capabilities. The enumeration tool provides five cheif capabilities including network scanning, DNS enumeration, directory busting, port scanning, and vulnerability scanning. Kangaroo was chosen as a name because kangaroos can be classified as having 5 legs to to there reliance on their tail.  
 
 
 ## How to Install
