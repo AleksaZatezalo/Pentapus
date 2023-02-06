@@ -1,6 +1,5 @@
 # Kangaroo
-Kangaroo is a enumeration tool, coded in python3, with five diffrent capabilities. The enumeration tool provides five cheif capabilities including network scanning, DNS enumeration, directory busting, port scanning, and vulnerability scanning. Kangaroo was chosen as a name because kangaroos can be classified as having 5 legs to to there reliance on their tail.  
-
+Pentapus is a enumeration tool, coded in python3, with five diffrent capabilities. The enumeration tool provides five cheif capabilities including network scanning, DNS enumeration, directory busting, port scanning, and vulnerability scanning. Pentapus was chosen as a name because it functions via five independantly functioning "Tentacles" (microservices) used to scan and enumerate websites.
 
 ## How to Install
 Still being written.
